@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\march28hometask1return\bin\Debug\net6.0\march28hometask1return.exe
+C:\Users\User\Desktop\march28hometask1return\bin\Debug\net6.0\march28hometask1return.deps.json
+C:\Users\User\Desktop\march28hometask1return\bin\Debug\net6.0\march28hometask1return.runtimeconfig.json
+C:\Users\User\Desktop\march28hometask1return\bin\Debug\net6.0\march28hometask1return.dll
+C:\Users\User\Desktop\march28hometask1return\bin\Debug\net6.0\march28hometask1return.pdb
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\march28hometask1return.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\march28hometask1return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\march28hometask1return.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\march28hometask1return.AssemblyInfo.cs
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\march28hometask1return.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\march28hometask1return.dll
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\refint\march28hometask1return.dll
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\march28hometask1return.pdb
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\march28hometask1return.genruntimeconfig.cache
+C:\Users\User\Desktop\march28hometask1return\obj\Debug\net6.0\ref\march28hometask1return.dll
